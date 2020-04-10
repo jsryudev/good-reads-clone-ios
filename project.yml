@@ -1,0 +1,12 @@
+name: Good Reads
+options:
+  usesTabs: false
+  indentWidth: 2
+  tabWidth: 2
+  bundleIdPrefix: com.jsryudev
+targets:
+  Good Reads:
+    type: application
+    platform: iOS
+    deploymentTarget: 11.0
+    sources: [Good Reads]
