@@ -16,3 +16,5 @@ targets:
       - carthage: RxRelay
       - carthage: RxBlocking
       - carthage: SnapKit
+      - carthage: Alamofire
+      - carthage: Moya
