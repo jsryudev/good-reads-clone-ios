@@ -10,3 +10,9 @@ targets:
     platform: iOS
     deploymentTarget: 11.0
     sources: [Good Reads]
+    dependencies:
+      - carthage: RxSwift
+      - carthage: RxCocoa
+      - carthage: RxRelay
+      - carthage: RxBlocking
+      - carthage: SnapKit
