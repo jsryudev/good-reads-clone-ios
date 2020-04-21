@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  Good Reads
 //
-//  Created by 유준상 on 2020/04/10.
-//  Copyright © 2020 JunSang Ryu. All rights reserved.
+//  Created by JunSang Ryu on 2020/04/10.
 //
 
 import UIKit
