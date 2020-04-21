@@ -2,7 +2,7 @@
 //  UserService.swift
 //  Good Reads
 //
-//  Created by 유준상 on 2020/04/10.
+//  Created by JunSang Ryu on 2020/04/10.
 //
 
 import Moya
