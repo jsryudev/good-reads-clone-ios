@@ -1,13 +1,13 @@
 //
-//  ViewController.swift
+//  SignUpViewController.swift
 //  Good Reads
 //
-//  Created by JunSang Ryu on 2020/04/10.
+//  Created by JunSang Ryu on 2020/04/21.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class SignUpViewController: BaseViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
